@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"H",
+				"HelloWorld"
+			],
+			[
+				"rea",
+				"React"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"get",
+				"getFile"
+			],
+			[
+				"acc",
+				"accountInfo"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"email",
+				"emailParam"
+			],
+			[
+				"nam",
+				"nameParam"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"colou",
+				"colourParam"
+			],
+			[
+				"door",
+				"doorsParam"
+			],
+			[
+				"grea",
+				"gearboxParam"
+			],
+			[
+				"fuel",
+				"fuelTypeParam"
+			],
+			[
+				"milea",
+				"mileageParam"
+			],
+			[
+				"body",
+				"bodyTypeParam"
+			],
+			[
+				"make",
+				"makeParam"
+			],
+			[
+				"mak",
+				"makeLocal"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"point",
+				"pointA"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascirpt",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/muhammad.raza/Desktop/es6-tutorial"
+	],
+	"file_history":
+	[
+		"/Users/muhammad.raza/Desktop/react-learning/.gitignore",
+		"/Users/muhammad.raza/Desktop/react-learning/package.json",
+		"/Users/muhammad.raza/Desktop/react-learning/react.sublime-project",
+		"/Users/muhammad.raza/Desktop/react-learning/index.js",
+		"/Users/muhammad.raza/Desktop/react-learning/index.css",
+		"/Users/muhammad.raza/Desktop/react-todo/node_modules/react/lib/React.js",
+		"/Users/muhammad.raza/Desktop/react-todo/node_modules/babel-core/index.js",
+		"/Users/muhammad.raza/Desktop/react-todo/node_modules/react-dom/dist/react-dom.js",
+		"/Users/muhammad.raza/Desktop/react-todo/node_modules/react/react.js",
+		"/Users/muhammad.raza/Desktop/react-todo/bundles/vendors.js",
+		"/Users/muhammad.raza/Desktop/react-todo/bundles/app-bundle.js",
+		"/Users/muhammad.raza/Desktop/react-todo/bundles/vendor-bundle.js",
+		"/Users/muhammad.raza/Desktop/react-todo/node_modules/index.html",
+		"/Users/muhammad.raza/Desktop/backbone/index.html",
+		"/Users/muhammad.raza/Desktop/dropbox/dropbox.html",
+		"/Users/muhammad.raza/Desktop/dropbox/main.js",
+		"/Users/muhammad.raza/Desktop/dropbox/imageDownloader.js",
+		"/Users/muhammad.raza/Desktop/canvas/main.js",
+		"/Users/muhammad.raza/Desktop/canvas/canvas.html",
+		"/Users/muhammad.raza/Desktop/dropbox/dropbox.js",
+		"/Users/muhammad.raza/Desktop/dropbox/jquery.js",
+		"/Applications/MAMP/htdocs/pages/part-exchange.html",
+		"/Applications/MAMP/htdocs/pages/contact-us.html",
+		"/Applications/MAMP/htdocs/footer.php",
+		"/Applications/MAMP/htdocs/images.rochdalecarcompany.co.uk/vehicles/ford-focus-hatchback-67529f1c8a2ebb073339fb30807626e6-640x480.html",
+		"/Applications/MAMP/htdocs/pages/used-cars.html",
+		"/Applications/MAMP/htdocs/privacy-policy.html",
+		"/Users/muhammad.raza/Desktop/slider/html/canvas_slider.html",
+		"/Users/muhammad.raza/Desktop/slider/css/jquery-ui.css",
+		"/Users/muhammad.raza/Desktop/slider/js/jquery-slider.js",
+		"/Users/muhammad.raza/Downloads/noUiSlider.7.0.2/jquery.nouislider.pips.css",
+		"/Users/muhammad.raza/Downloads/noUiSlider.7.0.2/jquery.nouislider.css",
+		"/Users/muhammad.raza/Desktop/slider/js/slider.js",
+		"/Users/muhammad.raza/Desktop/slider/js/jquery-slider"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"key",
+			"babel",
+			"://",
+			"\n<",
+			"render",
+			"array",
+			"Dropbox.client",
+			"readdir",
+			"listen",
+			"readdir",
+			"read",
+			");\n",
+			"readdir",
+			"_secret",
+			"client_id",
+			"access_token",
+			"access",
+			"jquery",
+			"client",
+			"Kinetic.Image",
+			"drawImage",
+			"CONTEXT_METHODS",
+			"</form",
+			"form",
+			"mobile",
+			"index.html",
+			"rcc-advanced-search",
+			"modelParam",
+			"class=\"selectBox-sub\"",
+			"reset",
+			".js",
+			"])</",
+			"script",
+			".js",
+			"                        \n",
+			"jquery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "es6.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
